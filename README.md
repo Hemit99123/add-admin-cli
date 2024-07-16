@@ -1,5 +1,8 @@
 # Firestore Security Rules
 
+## Documentation (video):
+https://www.youtube.com/watch?v=wmKzu_mQg0s
+
 This is the code for firebase services rules that should be implemented into the Firebase product for security
 
 ### Firestore rules
